@@ -1,4 +1,19 @@
 #!/bin/sh
+git clone https://github.com/Kurento/kurento-java
+git clone https://github.com/Kurento/kms-elements
+git clone https://github.com/Kurento/gst-plugins-good
+git clone https://github.com/Kurento/kms-core
+git clone https://github.com/Kurento/gstreamer
+git clone https://github.com/Kurento/kurento-qa-pom
+git clone https://github.com/Kurento/kurento-client-bower
+git clone https://github.com/Kurento/kurento-client-elements-js
+git clone https://github.com/Kurento/kurento-utils-js
+git clone https://github.com/Kurento/kurento-tutorial-java
+git clone https://github.com/Kurento/gst-libav
+git clone https://github.com/Kurento/kurento-client-js
+git clone https://github.com/Kurento/kurento-client-core-js
+git clone https://github.com/Kurento/kurento-media-server
+git clone https://github.com/Kurento/kurento-jsonrpc-bower
 git clone https://github.com/Kurento/kurento-jsonrpc-js
 git clone https://github.com/Kurento/doc-kurento-readthedocs
 git clone https://github.com/Kurento/doc-kurento
